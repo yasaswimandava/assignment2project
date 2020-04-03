@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mindtree</groupId>
-	<artifactId>watchstore</artifactId>
+	<artifactId>UniverseSuperHero</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>WatchStore</name>
-	<description>watchstore exercise</description>
+	<name>UniverseSuperHero</name>
+	<description>UniverseSuperHero</description>
 
 	<properties>
 		<java.version>1.8</java.version>
